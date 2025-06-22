@@ -77,9 +77,11 @@ Implement AI-driven anomaly detection in health patterns.
 
 
 👨‍💻 Author
+
 Shaik Mahaboob Basha
 
 💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code
+
 📫 Let's Connect!
 
 💼 [LinkedIn]...(https://www.linkedin.com/in/mahaboob-shaik-991380239)
