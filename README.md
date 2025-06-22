@@ -75,7 +75,17 @@ Expand medical database for smarter recommendations.
 
 Implement AI-driven anomaly detection in health patterns.
 
-🙋‍♂️ Author
+
+👨‍💻 Author
 Shaik Mahaboob Basha
-LinkedIn: [Your LinkedIn URL]
-GitHub: https://github.com/yourusername
+
+💼 Aspiring Full Stack Java Developer | Passionate about Web Development and Clean Code
+📫 Let's Connect!
+💼 [LinkedIn]...(https://www.linkedin.com/in/mahaboob-shaik-991380239)
+📧 Email:maheboob2002basha@gmail.com.com
+🧑‍💻 [GitHub]...(https://github.com/Mahaboob-Basha-Shaik)
+🌐 [Portfolio Website : https://mahaboob-basha-shaik.vercel.app/]
+📍 Location: India
+
+---
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
